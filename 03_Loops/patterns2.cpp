@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    /*int n;
+    int n;
     cout<<"Enter a number: "<<endl;
     cin>>n;
     int i = 1;
@@ -30,7 +30,7 @@ int main(){
         }
         cout<<endl;
         k=k+1;
-    }*/
+    }
 
     int p;
     cout<<"Enter a number: "<<endl;
